@@ -83,11 +83,10 @@ h1 em { color: var(--accent); }
 .btn.ghost { background: transparent; }
 .btn.ghost:hover { background: var(--ink); color: var(--bg); }
 
-.hero-photo { position: relative; justify-self: end; width: min(100%, 300px); }
+.hero-photo { position: relative; justify-self: end; width: min(100%, 360px); }
 .hero-photo img {
   width: 100%; height: auto; aspect-ratio: 4 / 5; object-fit: cover; object-position: center 30%;
   border-radius: 200px 200px 16px 16px;
-  filter: grayscale(.25) contrast(1.05);
   box-shadow: 0 30px 60px -30px rgba(20, 18, 15, .45);
 }
 .hero-photo figcaption {
