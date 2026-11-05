@@ -6,7 +6,6 @@
     "hero.eyebrow": "Marketing & Operations · Lisbon",
     "hero.lede": "Marketer with a master's in Marketing Management, building brands across digital and in-person — and co-founder of Khora, a Portuguese streetwear brand for techno culture.",
     "hero.cta1": "Get in touch",
-    "hero.cta2": "Download CV",
     "hero.status": "Co-founder @ Khora Clothing",
     "stats.years": "years in marketing",
     "stats.master": "Marketing Management, IPAM",
