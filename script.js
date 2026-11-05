@@ -4,7 +4,7 @@
     "nav.experience": "Experience",
     "nav.contact": "Contact",
     "hero.eyebrow": "Marketing & Operations · Lisbon",
-    "hero.lede": "Marketer with a master's in Marketing Management, building brands across digital and in-person. Co-founder of Khora, a Portuguese streetwear brand inspired by electronic music.",
+    "hero.lede": "Marketer with 5 years of experience and a master's in Marketing Management. I have my own brand: Khora, a Portuguese streetwear brand inspired by electronic music.",
     "hero.cta1": "Get in touch",
     "hero.status": "Co-founder @ Khora Clothing",
     "stats.years": "years in marketing",
