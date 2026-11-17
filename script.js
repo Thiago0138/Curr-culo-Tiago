@@ -23,7 +23,7 @@
     "khora.kicker": "Latest project",
     "khora.role": "Co-founder",
     "khora.tag": "100% Portuguese streetwear inspired by electronic music.",
-    "khora.p1": "I co-founded Khora with another young entrepreneur to build the largest community around electronic music and dance: a space with no judgment, where anyone, regardless of appearance, origin or identity, can express themselves through music, movement and aesthetics.",
+    "khora.p1": "I co-founded Khora together with Sara Caldas, to build the largest community around electronic music and dance: a space with no judgment, where anyone, regardless of appearance, origin or identity, can express themselves through music, movement and aesthetics.",
     "khora.p2": "In a market where electronic music culture is still under-explored in Portugal, Khora emerges as an inclusive alternative: functional, premium and versatile pieces, built to withstand the intensity of an event with the quality to be worn every day.",
     "khora.quote": "“More than clothing, we create belonging.”",
     "khora.doTitle": "From zero to finished product, I do it all",
